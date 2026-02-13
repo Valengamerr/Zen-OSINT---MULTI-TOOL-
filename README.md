@@ -32,6 +32,11 @@
 ![Identidad-falsa](https://img.shields.io/badge/Generar_Identidad_Falsa-808080?style=for-the-badge&logo=ghost&logoColor=white)
 ![Onion-LINKS ](https://img.shields.io/badge/Links_ONION-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 
+> [!CAUTION]
+> En caso de queres 1 GB de base de datos
+> Pedir a : t.me/Valen_Qq   (telegram)
+> Pedir a : uknowuser_qq    (discord)
+> (por limitaciones de github no se puede mandar la base de datos entera)
 
 > [!TIP]
 > Si estas en linux ~~NO USES PIP DIRECTAMENTE~~ usa:
