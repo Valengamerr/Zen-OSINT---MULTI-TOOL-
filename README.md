@@ -42,7 +42,8 @@ source venv/bin/activate
 ```
 ## INSTALACION
 
-1.  clonar: 
+1.  clonar: git clone   →  ``` https://github.com/Valengamerr/Zen-OSINT---MULTI-TOOL-.git ```
+2.  Ir a la carpeta     →  ```  cd Zen-OSINT---MULTI-TOOL- ```
 
 
 
