@@ -22,12 +22,12 @@
 ### 🛡️ Seguridad y Auditoría
 ![Scan puerto](https://img.shields.io/badge/Escaneo_de_Puertos-6E40C9?style=for-the-badge&logo=target&logoColor=white)
 ![SQL injection](https://img.shields.io/badge/Vulnerabilidad_SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
-![ServerResp](https://img.shields.io/badge/Respuesta_Servidor-333333?style=for-the-badge&logo=server&logoColor=white)
+![Server Respuesta](https://img.shields.io/badge/Respuesta_Servidor-333333?style=for-the-badge&logo=server&logoColor=white)
 ![WebInfo](https://img.shields.io/badge/Info_Pagina_Web-555555?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ### ⚙️ Utilidades Varias
 ![YT](https://img.shields.io/badge/Descargar_YT_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Crypto](https://img.shields.io/badge/Base64_/_AES_Crypto-7DDA58?style=for-the-badge&logo=lock&logoColor=black)
-![DB](https://img.shields.io/badge/Buscar_en_DB_(1GB)-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
-![FakeID](https://img.shields.io/badge/Generar_Identidad_Falsa-808080?style=for-the-badge&logo=ghost&logoColor=white)
-![Onion](https://img.shields.io/badge/Links_ONION-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
+![Crypto/BASE64](https://img.shields.io/badge/Base64_/_AES_Crypto-7DDA58?style=for-the-badge&logo=lock&logoColor=black)
+![Base de datos](https://img.shields.io/badge/Buscar_en_DB_(1GB)-FF4500?style=for-the-badge&logo=databricks&logoColor=white)
+![Identidad falsa](https://img.shields.io/badge/Generar_Identidad_Falsa-808080?style=for-the-badge&logo=ghost&logoColor=white)
+![Onion LINKS ](https://img.shields.io/badge/Links_ONION-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
