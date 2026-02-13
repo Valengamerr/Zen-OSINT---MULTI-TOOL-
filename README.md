@@ -6,22 +6,22 @@
 ![MyIP](https://img.shields.io/badge/Tu_IP-2ea44f?style=for-the-badge&logo=info&logoColor=white)
 ![WiFi](https://img.shields.io/badge/Testeo_WiFi-FFD600?style=for-the-badge&logo=wi-fi&logoColor=black)
 
-### 🤖 Discord Tools
+### 🤖 Discord
 ![DiscordToken](https://img.shields.io/badge/Info_Token_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![WebhookSpam](https://img.shields.io/badge/Spam_Webhook-ED4245?style=for-the-badge&logo=discord&logoColor=white)
 ![WebhookInfo](https://img.shields.io/badge/Webhook_Info-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Raider](https://img.shields.io/badge/Raider_Discord-EB459E?style=for-the-badge&logo=discord&logoColor=white)
 ![ServerInfo](https://img.shields.io/badge/Info_Server_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-### 🎮 Roblox Tools
-![RobloxID](https://img.shields.io/badge/Buscar_ID_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![RobloxUser](https://img.shields.io/badge/Buscar_User_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+### 🎮 Roblox 
+![RobloxID info](https://img.shields.io/badge/Buscar_ID_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![RobloxUser info](https://img.shields.io/badge/Buscar_User_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![RobloxCookieInfo](https://img.shields.io/badge/Extraer_Info_Cookie-FF8C00?style=for-the-badge&logo=roblox&logoColor=white)
 ![RobloxLogin](https://img.shields.io/badge/Cookie_Roblox_Login-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### 🛡️ Seguridad y Auditoría
-![Ports](https://img.shields.io/badge/Escaneo_de_Puertos-6E40C9?style=for-the-badge&logo=target&logoColor=white)
-![SQL](https://img.shields.io/badge/Vulnerabilidad_SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
+![Scan puerto](https://img.shields.io/badge/Escaneo_de_Puertos-6E40C9?style=for-the-badge&logo=target&logoColor=white)
+![SQL injection](https://img.shields.io/badge/Vulnerabilidad_SQL-CC0000?style=for-the-badge&logo=mysql&logoColor=white)
 ![ServerResp](https://img.shields.io/badge/Respuesta_Servidor-333333?style=for-the-badge&logo=server&logoColor=white)
 ![WebInfo](https://img.shields.io/badge/Info_Pagina_Web-555555?style=for-the-badge&logo=google-chrome&logoColor=white)
 
