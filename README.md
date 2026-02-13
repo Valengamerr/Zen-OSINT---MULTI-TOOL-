@@ -33,13 +33,26 @@
 ![Onion-LINKS ](https://img.shields.io/badge/Links_ONION-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 
 
-<details>
-<summary><b>📂 Ver lista completa de funciones (Click aquí)</b></summary>
+> [!TIP]
+> Si estas en linux ~~NO USES PIP DIRECTAMENTE~~ usa:
 
-Aquí pones todos tus badges de antes...
-...
-...
-</details>
+``` bash
+python3 -m venv venv
+source venv/bin/activate
+```
+## INSTALACION
+
+1.  clonar: 
+
+
+
+
+
+
+
+
+
+
 
 
 
