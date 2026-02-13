@@ -49,7 +49,7 @@ source venv/bin/activate
 
 ## MUESTRAS de que ZenOsint no es un virus y imagenes 
 
-<img width="1366" height="768" alt="ZenOsint-Seguro" src="https://github.com/user-attachments/assets/631bc934-3708-4081-b3f4-a26f492a7268" />
+<img width="1366" height="768" alt="ZenOsint-Seguro" src="https://github.com/user-attachments/assets/8ff2300a-dec3-4134-b89b-356cc18cb89e" />
 
 <img width="1366" height="768" alt="ZenOsint" src="https://github.com/user-attachments/assets/f694c74a-6ec6-47dc-bcfc-0ff6ede8717e" />
 
