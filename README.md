@@ -14,9 +14,9 @@
 ![ServerInfo](https://img.shields.io/badge/Info_Server_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 🎮 Roblox 
-![RobloxID-info](https://img.shields.io/badge/Buscar_ID_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![RobloxUser-info](https://img.shields.io/badge/Buscar_User_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![RobloxCookie-Info](https://img.shields.io/badge/Extraer_Info_Cookie-FF8C00?style=for-the-badge&logo=roblox&logoColor=white)
+![Buscar-por-RobloxID](https://img.shields.io/badge/Buscar_ID_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![Buscar-por-RobloxUser](https://img.shields.io/badge/Buscar_User_Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![Infor-de-RobloxCookie](https://img.shields.io/badge/Extraer_Info_Cookie-FF8C00?style=for-the-badge&logo=roblox&logoColor=white)
 ![RobloxLogin](https://img.shields.io/badge/Cookie_Roblox_Login-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
 ### 🛡️ Auditoria
