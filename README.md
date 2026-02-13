@@ -42,10 +42,10 @@ source venv/bin/activate
 ```
 ## INSTALACION
 
-1.  clonar: git clone   →  ``` https://github.com/Valengamerr/Zen-OSINT---MULTI-TOOL-.git ```
+1.  Clonar              →  ```  git clone https://github.com/Valengamerr/Zen-OSINT---MULTI-TOOL-.git ```
 2.  Ir a la carpeta     →  ```  cd Zen-OSINT---MULTI-TOOL- ```
-
-
+3.  Instalar librerias  →   ``` pip install -r requirements.txt  ``` O  ``` pip3 install -r requirements.txt  ```
+4.  Ejecutar            →   ``` python3 ZenOsint.py```  O  ``` python ZenOsint.py ```     
 
 
 
