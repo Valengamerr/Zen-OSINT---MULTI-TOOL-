@@ -1,0 +1,12 @@
+Config==0.5.1
+deep_translator==1.11.4
+Faker==40.4.0
+phonenumbers==9.0.22
+pycryptodome==3.23.0
+PyQt6==6.10.2
+pyqt6_sip==13.11.0
+pytube==15.0.0
+qrcode==7.4.2
+Requests==2.32.5
+selenium==4.40.0
+speedtest_cli==2.1.3
