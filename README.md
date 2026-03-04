@@ -37,8 +37,8 @@
 > Pedir a : t.me/Valen_Qq   (telegram)
 > Pedir a : uknowuser_qq    (discord)
 > (por limitaciones de github no se puede mandar la base de datos entera)
-> usar zen osint no es recomendable es mas viable "["](https://github.com/Valengamerr/Omni-Osint---herramienta-de-osint-python-webview-)">
-> omni osint esta dedicado solo al osint, zen osint esta mas completo en funciones
+> usar zen osint no es recomendable es mas viable omni search
+> omni search esta dedicado solo al osint, zen osint esta mas completo en funciones
 
 
 > [!TIP]
